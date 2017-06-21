@@ -33,10 +33,10 @@ boolean addd,subb,mull,divv,modd;
         mul=(Button)findViewById(R.id.mu);
         mod=(Button)findViewById(R.id.mo);
         div=(Button)findViewById(R.id.di) ;
-        ac=(Button)findViewById(R.id.a);
-        era=(Button)findViewById(R.id.er);
-        eql=(Button)findViewById(R.id.eq);
-        dot=(Button)findViewById(R.id.doy) ;
+//        ac=(Button)findViewById(R.id.a);
+//        era=(Button)findViewById(R.id.er);
+//        eql=(Button)findViewById(R.id.eq);
+//        dot=(Button)findViewById(R.id.doy) ;
 
         dot.setOnClickListener(new View.OnClickListener() {
             @Override
